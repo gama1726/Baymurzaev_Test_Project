@@ -1,2 +1,3 @@
 # Baymurzaev_Test_Project
-Test project to Senla
+Тестовое задание для Сенла
+Баймурзаев Абдулгамид
